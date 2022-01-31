@@ -1,0 +1,39 @@
+[
+    {
+        "doi": "10.1002/cfg.304",
+        "issue": "4",
+        "publication venue": {
+            "id": [ "1531-6912" ],
+            "name": "Comparative and Functional Genomics",
+            "type": "journal"
+        },
+        "publication year": 2003,
+        "title": "Development of Computational Tools for the Inference of Protein Interaction Specificity Rules and Functional Annotation Using Structural Information",
+        "type": "journal article",
+        "volume": "4"
+    },
+    {
+        "doi": "10.1016/s1367-5931(02)00332-0",
+        "issue": "3",
+        "publication venue": {
+            "id": [ "1367-5931" ],
+            "name": "Current Opinion in Chemical Biology",
+            "type": "journal"
+        },
+        "publication year": 2002,
+        "title": "In vitro selection as a powerful tool for the applied evolution of proteins and peptides",
+        "type": "journal article",
+        "volume": "6"
+    },
+    {
+        "doi": "10.1002/9780470291092.ch20",
+        "publication venue": {
+            "id": [ "9780470291092" ],
+            "name": "Proceedings of the 5th Annual Conference on Composites and Advanced Ceramic Materials: Ceramic Engineering and Science Proceedings",
+            "type": "book"
+        },
+        "publication year": 1981,
+        "title": "Mechanisms of Toughening in Ceramic Matrix Composites",
+        "type": "book chapter"
+    }
+]
