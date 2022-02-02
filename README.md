@@ -25,6 +25,10 @@ This space contains all the material related to the [Data Science course](https:
    - slides: [Google Slides](https://docs.google.com/presentation/d/1BxXC3jrVAPsZs8IRdh33ljbMMkfFvvVD8DzHlvJp-yw/edit?usp=sharing)
    <hr />
 
+2. [02/02/22, *the*] What is a datum and how it can be represented computationally
+   - slides: [Google Slides](https://docs.google.com/presentation/d/174Mcbd9hHrWboYr3PaIUzn4qxWbB70HoVCwwZ7BMAZk/edit?usp=sharing)
+   <hr />
+
 ### Schedule
 
 <table>
