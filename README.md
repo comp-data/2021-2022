@@ -29,6 +29,10 @@ This space contains all the material related to the [Data Science course](https:
    - slides: [Google Slides](https://docs.google.com/presentation/d/174Mcbd9hHrWboYr3PaIUzn4qxWbB70HoVCwwZ7BMAZk/edit?usp=sharing)
    <hr />
 
+3. [04/02/22, *hon*] Data formats and methods for storing data in Python
+   - material: [GitHub](https://github.com/comp-data/2021-2022/tree/main/docs/handson/01)
+   <hr />
+
 ### Schedule
 
 <table>
