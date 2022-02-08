@@ -33,8 +33,12 @@ This space contains all the material related to the [Data Science course](https:
    - material: [GitHub](https://github.com/comp-data/2021-2022/tree/main/docs/handson/01)
    <hr />
 
-4. [02/02/22, *the*] Introduction to data modelling
+4. [07/02/22, *the*] Introduction to data modelling
    - slides: [Google Slides](https://docs.google.com/presentation/d/1HQ70N95O-5kj1QfMCmdpicwpEH0KUWir8awmw0W2s1g/edit?usp=sharing)
+   <hr />
+
+5. [09/02/22, *hon*] Implementation of data models via Python classe
+   - material: [GitHub](https://github.com/comp-data/2021-2022/tree/main/docs/handson/02)
    <hr />
 
 ### Schedule
