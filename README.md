@@ -37,8 +37,12 @@ This space contains all the material related to the [Data Science course](https:
    - slides: [Google Slides](https://docs.google.com/presentation/d/1HQ70N95O-5kj1QfMCmdpicwpEH0KUWir8awmw0W2s1g/edit?usp=sharing)
    <hr />
 
-5. [09/02/22, *hon*] Implementation of data models via Python classe
+5. [09/02/22, *hon*] Implementation of data models via Python classes
    - material: [GitHub](https://github.com/comp-data/2021-2022/tree/main/docs/handson/02)
+   <hr />
+
+6. [11/02/22, *the*] Processing and querying the data
+   - slides: [Google Slides](https://docs.google.com/presentation/d/1Ykft-hlD2HbREdumEYVcqrX7m2wHQHTng64yQkgCyDo/edit?usp=sharing)
    <hr />
 
 ### Schedule
