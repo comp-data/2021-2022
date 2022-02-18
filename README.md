@@ -49,8 +49,12 @@ This space contains all the material related to the [Data Science course](https:
    - material: [GitHub](https://github.com/comp-data/2021-2022/tree/main/docs/handson/03)
    <hr />
 
-6. [16/02/22, *the*] Database Management Systems
+8. [16/02/22, *the*] Database Management Systems
    - slides: [Google Slides](https://docs.google.com/presentation/d/1am-9--0m2NJCs7VjtOxRnCL-H3CnFDzJ-ECXb6mRy3k/edit?usp=sharing)
+   <hr />
+
+7. [18/02/22, *hon*] Configuring and populating a relational database
+   - material: [GitHub](https://github.com/comp-data/2021-2022/tree/main/docs/handson/04)
    <hr />
    
 
