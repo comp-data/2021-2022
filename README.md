@@ -45,6 +45,15 @@ This space contains all the material related to the [Data Science course](https:
    - slides: [Google Slides](https://docs.google.com/presentation/d/1Ykft-hlD2HbREdumEYVcqrX7m2wHQHTng64yQkgCyDo/edit?usp=sharing)
    <hr />
 
+7. [14/02/22, *hon*] Introduction to Pandas
+   - material: [GitHub](https://github.com/comp-data/2021-2022/tree/main/docs/handson/03)
+   <hr />
+
+6. [16/02/22, *the*] Database Management Systems
+   - slides: [Google Slides](https://docs.google.com/presentation/d/1am-9--0m2NJCs7VjtOxRnCL-H3CnFDzJ-ECXb6mRy3k/edit?usp=sharing)
+   <hr />
+   
+
 ### Schedule
 
 <table>
