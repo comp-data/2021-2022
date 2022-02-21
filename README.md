@@ -53,10 +53,13 @@ This space contains all the material related to the [Data Science course](https:
    - slides: [Google Slides](https://docs.google.com/presentation/d/1am-9--0m2NJCs7VjtOxRnCL-H3CnFDzJ-ECXb6mRy3k/edit?usp=sharing)
    <hr />
 
-7. [18/02/22, *hon*] Configuring and populating a relational database
+9. [18/02/22, *hon*] Configuring and populating a relational database
    - material: [GitHub](https://github.com/comp-data/2021-2022/tree/main/docs/handson/04)
    <hr />
-   
+
+10. [21/02/22, *the*] SQL, a query language for relational databases
+    - slides: [Google Slides](https://docs.google.com/presentation/d/1uRS3fyLymSaOp0GI5juueFbXebFsLkISpUeVt9Gsh-E/edit?usp=sharing)
+    <hr />
 
 ### Schedule
 
