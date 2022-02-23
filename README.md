@@ -61,6 +61,10 @@ This space contains all the material related to the [Data Science course](https:
     - slides: [Google Slides](https://docs.google.com/presentation/d/1uRS3fyLymSaOp0GI5juueFbXebFsLkISpUeVt9Gsh-E/edit?usp=sharing)
     <hr />
 
+11. [23/02/22, *hon*] Configuring and populating a graph database
+   - material: [GitHub](https://github.com/comp-data/2021-2022/tree/main/docs/handson/05)
+   <hr />
+
 ### Schedule
 
 <table>
