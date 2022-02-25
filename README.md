@@ -65,7 +65,7 @@ This space contains all the material related to the [Data Science course](https:
    - material: [GitHub](https://github.com/comp-data/2021-2022/tree/main/docs/handson/05)
    <hr />
 
-10. [25/02/22, *the*] SPARQL, a query language for RDF databases
+12. [25/02/22, *the*] SPARQL, a query language for RDF databases
     - slides: [Google Slides](https://docs.google.com/presentation/d/1ZbFRFF-y0Vr1byG9QMl88mVIdd2BurLjg0BMiNs8h5g/edit?usp=sharing)
     <hr />
 
