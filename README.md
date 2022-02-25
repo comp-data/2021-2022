@@ -69,6 +69,10 @@ This space contains all the material related to the [Data Science course](https:
     - slides: [Google Slides](https://docs.google.com/presentation/d/1ZbFRFF-y0Vr1byG9QMl88mVIdd2BurLjg0BMiNs8h5g/edit?usp=sharing)
     <hr />
 
+13. [28/02/22, *hon*] Interacting with databases using Pandas
+   - material: [GitHub](https://github.com/comp-data/2021-2022/tree/main/docs/handson/06)
+   <hr />
+
 ### Schedule
 
 <table>
