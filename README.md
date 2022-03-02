@@ -73,6 +73,10 @@ This space contains all the material related to the [Data Science course](https:
     - material: [GitHub](https://github.com/comp-data/2021-2022/tree/main/docs/handson/06)
    <hr />
 
+14. [25/02/22, *the*] Describing and visualising data
+    - slides: [Google Slides](https://docs.google.com/presentation/d/11Vp1ZC15XPdyObt7REg_bUOUyLKIqSIymHvM-KrPINI/edit?usp=sharing)
+    <hr />
+
 ### Schedule
 
 <table>
