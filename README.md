@@ -105,7 +105,7 @@ This space contains all the material related to the [Data Science course](https:
 
 - 16 May 2022
 - 20 June 2022
-- 11 July 2022
+- 15 July 2022
 - 5 September 2022
 
 # Links

@@ -172,3 +172,7 @@ result_q1 = generic.getPublicationsPublishedInYear(2020)
 result_q2 = generic.getPublicationsByAuthorId("0000-0001-9857-1511")
 # etc...
 ```
+
+## Submission of the project
+
+You have to provide all Python files implementing your project, by sharing them in some way (e.g. via OneDrive). You have to send all the files **one week before** the exam session you want to take.
