@@ -63,7 +63,7 @@ This space contains all the material related to the [Data Science course](https:
 
 11. [23/02/22, *hon*] Configuring and populating a graph database
     - material: [GitHub](https://github.com/comp-data/2021-2022/tree/main/docs/handson/05)
-   <hr />
+    <hr />
 
 12. [25/02/22, *the*] SPARQL, a query language for RDF databases
     - slides: [Google Slides](https://docs.google.com/presentation/d/1ZbFRFF-y0Vr1byG9QMl88mVIdd2BurLjg0BMiNs8h5g/edit?usp=sharing)
@@ -71,10 +71,14 @@ This space contains all the material related to the [Data Science course](https:
 
 13. [28/02/22, *hon*] Interacting with databases using Pandas
     - material: [GitHub](https://github.com/comp-data/2021-2022/tree/main/docs/handson/06)
-   <hr />
+    <hr />
 
-14. [25/02/22, *the*] Describing and visualising data
+14. [02/03/22, *the*] Describing and visualising data
     - slides: [Google Slides](https://docs.google.com/presentation/d/11Vp1ZC15XPdyObt7REg_bUOUyLKIqSIymHvM-KrPINI/edit?usp=sharing)
+    <hr />
+
+15. [04/03/22, *hon*] Descriptive statistics and graphs about data using Pandas
+    - material: [GitHub](https://github.com/comp-data/2021-2022/tree/main/docs/handson/07)
     <hr />
 
 ### Schedule
